@@ -4,7 +4,9 @@ THE NAME OF MY PROGRAMMING LANGUAGE: SIMP
 
 SUPPORTING OPERATIONS: 
     if, while, variable declaration, variable assigment, complex expressions, print, arithmetic / logic operations, comments
+
 SOME RULES:
+
     GENERAL:    
         Between every word or sign should be at least one space.
     IF and WHILE: 
