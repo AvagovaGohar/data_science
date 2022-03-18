@@ -1,5 +1,7 @@
 THE NAME OF MY PROGRAMMING LANGUAGE: SIMP
 
+
+
 SUPPORTING OPERATIONS: 
     if, while, variable declaration, variable assigment, complex expressions, print, arithmetic / logic operations, comments
 SOME RULES:
@@ -18,13 +20,12 @@ SOME RULES:
             '|', '&'
         Assigment operators: 
             '=', '+=', '-=', '*=', '/=', '|=', '&=', '%='
-
-        In complex expressions you cannot use '(', ')' and there is no priority in operators. They are executed from left to right.
+	You cannot use '(', ')' in complex expressions, and there is no precedence in operators. They run from left to right.
     SUPPORT TYPES:
-        Variable declaration starts with word 'var'. The type of the variable depends on the argument, it can be changed on any other type and it cannot declarated twice (or more) .
-        Types: unsigned int,unsigned float, string, bool
+        A variable declaration starts with the word 'var'. The type of a variable depends on the argument, it can be changed to any other type, and it cannot be declared twice (or more).
+        Types: unsigned int, unsigned float, string, bool
     COMMENTS:
-        In order to write a comment, the line must begin with '//'
+        To write a comment, the line must start with '//'
 
 
 EXAMPLE:
