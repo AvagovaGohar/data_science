@@ -28,21 +28,4 @@ SOME RULES:
         To write a comment, the line must start with '//'
 
 
-EXAMPLE:
 
-
-var i = 0
-var sum = 0
-while i < 10 {
-	if i >= 2 {
-        print i + "_"
-	}
-    i += 1
-    sum += i
-}
-if true || i {
-    i = 0
-    print "i = " + i
-}
-
-Output: 2 3 4 5 6 7 8 9 i = 0
